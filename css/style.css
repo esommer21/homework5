@@ -51,6 +51,7 @@ footer{
 }
 
 /*Begin your code here*/
+  
 /*Keyframes for animation*/
 
 @-webkit-keyframes logo_wiggle{
@@ -59,11 +60,14 @@ footer{
 }
 
 @keyframes logo_wiggle{
+  0%   {width: 25px;}
+  100% {width: 420px;}
   /*Your code here.*/
 
 } 
 
 #logo{
+  animation logo_wiggle 15s 1;
    /*Your code here.*/
  
 }
