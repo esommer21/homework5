@@ -67,7 +67,7 @@ footer{
 } 
 
 #logo{
-  animation logo_wiggle 15s 1;
+  animation: logo_wiggle 15s 1;
    /*Your code here.*/
  
 }
