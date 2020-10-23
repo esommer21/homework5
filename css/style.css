@@ -162,7 +162,7 @@ header{
 
 .nav_links{
   display: flex;
-  flex-flow: row-reverse wrap;
+  flex-direction: column;
   
   /*Your code here again.*/
 }
