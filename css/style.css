@@ -88,6 +88,7 @@ footer{
   background: #fff;
   border-radius: 7px;
   padding: 0 0 50px 0;
+  display: flex;
   flex-basis: 400px;
   
   
@@ -139,7 +140,7 @@ footer{
 .gallery{
   min-height: 600px;
   display: flex;
-  flex-direction: row;
+  
   /*Your code here again.*/
 }
 
@@ -177,6 +178,8 @@ header{
 
   /* Cards! */
   .card {
+    display: flex;
+    flex-basis: 225px;
     /*Your  code here again.*/
   }
 
@@ -187,6 +190,8 @@ header{
 
   /* Navbar */
   header{
+    display: flex;
+    flex-direction: row;
     /*Your code here again.*/  
   }
 
