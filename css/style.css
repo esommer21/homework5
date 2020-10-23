@@ -154,7 +154,7 @@ footer{
 header{
   background: #fff;
   border-bottom: 3px solid #50C7C7;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   /*Your  code here again.*/
 }
