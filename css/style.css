@@ -161,6 +161,8 @@ header{
 
 .nav_links{
   display: flex;
+  flex-wrap: wrap;
+  flex-basis: 100%;
   
   /*Your code here again.*/
 }
