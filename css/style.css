@@ -138,6 +138,8 @@ footer{
 /* Gallery! */
 .gallery{
   min-height: 600px;
+  display: flex;
+  flex-direction: row;
   /*Your code here again.*/
 }
 
