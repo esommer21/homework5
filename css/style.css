@@ -232,7 +232,6 @@ header{
         background-image: none;
   }
   .pricing {
-    flex-direction: row;
     align-items: flex-start;  
   }
   
