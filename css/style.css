@@ -236,7 +236,7 @@ header{
     
   }
   
-  .gallery{
+  .gallery, h2{
     display: none;
   }
   
