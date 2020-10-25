@@ -236,6 +236,6 @@ header{
 /*Add media query to handle reduced-motion*/
 @media (prefers-reduced-motion: reduce) {
   
- .animation{
-   logo_wiggle: none; 
+ #logo{
+   animation: none; 
 }
