@@ -228,6 +228,18 @@ header{
   .card {
     flex-basis: 200px;
   }
+  body{
+        background-image: none;
+  }
+  .pricing {
+    
+    
+  }
+  
+  .gallery{
+    display: none;
+  }
+  
   /*Your code here again.*/
   /*You will want four selectors*/  
 }
