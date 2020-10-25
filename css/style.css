@@ -232,8 +232,7 @@ header{
         background-image: none;
   }
   .pricing {
-    
-    
+    flex-direction: column;  
   }
   
   .gallery, h2{
